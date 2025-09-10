@@ -2,7 +2,7 @@ class Cgminer < Formula
   desc "cgminer"
   homepage "https://kano.is/"
   url "https://github.com/kanoi/cgminer.git", :branch => "master"
-  version "4.13.3"
+  version "4.13.4"
 
   depends_on "autoconf" => :build
   depends_on "automake" => :build
